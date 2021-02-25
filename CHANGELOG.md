@@ -49,5 +49,9 @@
 -   Add Models to JWTRoutes class & init_app method [Issue #119](https://github.com/joegasewicz/Flask-JWT-Router/issues/119)
 
 ## Unreleased
+Next release: **Releases 0.1.8**
 -   Outdated docstring - nice easy fix for a beginner developer! #192 [Issue #192](https://github.com/joegasewicz/flask-jwt-router/issues/192)
 -   Bump cryptography from 3.3.1 to 3.3.2 #197
+-   Tear down g context entity members between requests #201 [Issue #201](https://github.com/joegasewicz/flask-jwt-router/issues/201)
+-   test stores X-Auth-Token between tests in scope function #199 [Issue #199](https://github.com/joegasewicz/flask-jwt-router/issues/199)
+-   Fix CI #190 [Issue #190](https://github.com/joegasewicz/flask-jwt-router/issues/190)
